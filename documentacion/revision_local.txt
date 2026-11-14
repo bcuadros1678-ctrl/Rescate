@@ -1,0 +1,8 @@
+index.html: estructura básica presente
+index.html: analizador HTML de Python procesó el documento sin excepción
+reportar.html: estructura básica presente
+reportar.html: analizador HTML de Python procesó el documento sin excepción
+rescates.html: estructura básica presente
+rescates.html: analizador HTML de Python procesó el documento sin excepción
+
+Nota: esta revisión local no equivale a un resultado emitido por el validador W3C.
